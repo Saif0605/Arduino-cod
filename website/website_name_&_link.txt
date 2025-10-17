@@ -1,0 +1,5 @@
+Website that maybe needed....
+1) Arduino IDE....(https://www.arduino.cc/)
+2) for driver.....(https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=overview)
+3) Influxdata.....(https://www.influxdata.com/)
+4) Circuit deign........(https://www.circuito.io/)
